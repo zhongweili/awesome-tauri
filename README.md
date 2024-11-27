@@ -221,7 +221,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [enassi](https://github.com/enassi/enassi) - Encryption assistant that encrypts and stores your notes and files.
 - [EzUp](https://github.com/HuakunShen/ezup) - File and Image uploader. Designed for blog writing and note taking.
 - [Orange](https://github.com/naaive/orange) - Cross-platform file search engine that can quickly locate files or folders based on keywords.
-- [Payload](https://payload.app/) ![closed source] - Drag & drop file transfers over local networks.
+- [Payload](https://payload.app/) ![closed source] - Drag & drop file transfers over local networks and online.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - A file explorer from the future.
 - [SquirrelDisk](https://github.com/adileo/squirreldisk) - Beautiful cross-platform disk usage analysis tool.
 - [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's taking up your Time Machine backup space.
