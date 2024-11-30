@@ -374,6 +374,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
 - [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
 - [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
+- [Imagenie](https://github.com/zhongweili/imagenie) - AI-powered desktop app for stunning image transformations
 - [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
 - [KoS - Key on Screen](https://github.com/dubisdev/key-on-screen) - Show in your screen the keys you are pressing.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
