@@ -26,6 +26,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
   - [ChatGPT clients](#chatgpt-clients)
   - [Data](#data)
   - [Developer tools](#developer-tools)
+  - [Ebook readers](#ebook-readers)
   - [Email & Feeds](#email--feeds)
   - [File management](#file-management)
   - [Finance](#finance)
@@ -209,6 +210,12 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [verbcode](https://verbcode.staaph.com/) ![closed source] - Simplify your localization journey.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 
+### Ebook readers
+
+- [Alexandria](https://github.com/btpf/Alexandria) - Minimalistic cross-platform eBook reader.
+- [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
+- [Readest](https://github.com/chrox/readest) - Modern and feature-rich ebook reader designed for avid readers.
+
 ### Email & Feeds
 
 - [Alduin](https://alduin.stouder.io/) - Alduin is a free and open source RSS, Atom and JSON feed reader that allows you to keep track of your favorite websites.
@@ -377,7 +384,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
 - [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
 - [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
-- [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
 - [KoS - Key on Screen](https://github.com/dubisdev/key-on-screen) - Show in your screen the keys you are pressing.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every language on every platform.
