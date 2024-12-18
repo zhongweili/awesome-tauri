@@ -26,6 +26,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
   - [ChatGPT clients](#chatgpt-clients)
   - [Data](#data)
   - [Developer tools](#developer-tools)
+  - [Ebook readers](#ebook-readers)
   - [Email & Feeds](#email--feeds)
   - [File management](#file-management)
   - [Finance](#finance)
@@ -99,6 +100,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) - Extended with additional methods for files and directories.
 - [tauri-plugin-macos-permissions](https://github.com/ayangweb/tauri-plugin-macos-permissions) - Check and request macOS permissions to accessibility and full disk access.
 - [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) - Tools for reading network information and scanning network.
+- [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri and Vue.
 - [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) - Disable default browser shortcuts.
 - [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) - Cross-compatible serialport communication tool.
 - [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) - Cross-compatible serialport communication tool for tauri 2.
@@ -208,6 +210,12 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [verbcode](https://verbcode.staaph.com/) ![closed source] - Simplify your localization journey.
 - [Yaak](https://yaak.app) - Organize and execute REST, GraphQL, and gRPC requests.
 
+### Ebook readers
+
+- [Alexandria](https://github.com/btpf/Alexandria) - Minimalistic cross-platform eBook reader.
+- [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
+- [Readest](https://github.com/chrox/readest) - Modern and feature-rich ebook reader designed for avid readers.
+
 ### Email & Feeds
 
 - [Alduin](https://alduin.stouder.io/) - Alduin is a free and open source RSS, Atom and JSON feed reader that allows you to keep track of your favorite websites.
@@ -235,6 +243,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
 - [Mahalli](https://github.com/AbdelilahOu/Mahalli-tauri) - Local first inventory and invoicing management app.
+- [Wealthfolio](https://wealthfolio.app) - Simple, open-source desktop portfolio tracker that keeps your financial data safe on your computer.
 
 ### Gaming
 
@@ -306,6 +315,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Parchment](https://github.com/tywil04/parchment) - Simple local-only cross-platform text editor with basic markdown support.
 - [Semanmeter](https://yibiao.fun/) ![closed source] - OCR and document conversion software.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
+- [HuLa](https://github.com/HuLaSpark/HuLa) - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
 
 ### Productivity
 
@@ -375,7 +385,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Happy](https://github.com/thewh1teagle/happy) - Control HappyLight compatible LED strip with ease.
 - [Imagefly](https://www.imagefly.dev/?ref=awesometauri) ![closed source] - Powerful offline image processing toolkit for Windows, Linux and macOS
 - [Imagenie](https://github.com/zhongweili/imagenie) - AI-powered desktop app for stunning image transformations
-- [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
 - [KoS - Key on Screen](https://github.com/dubisdev/key-on-screen) - Show in your screen the keys you are pressing.
 - [Lanaya](https://github.com/ChurchTao/Lanaya) - Easy to use, cross-platform clipboard management.
 - [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every language on every platform.
